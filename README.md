@@ -5,9 +5,9 @@
 - 2026年度財政経済理論研修のための資料配布ページです。
 - 講義資料を随時更新（変更・追加等）する可能性があります。
 - 講義資料は本研修のために公開しており、研修生限りとし、第３者に提供しないようにお願いします。
-- GitHubリポジトリ: [https://github.com/ayumu-tanaka/2026mof](https://github.com/ayumu-tanaka/2026mof)
+- GitHubリポジトリ: [https://github.com/ayumu-tanaka/mof2026](https://github.com/ayumu-tanaka/mof2026)
   - 元ファイル。常に最新。
-- GitHub Pages: [https://ayumu-tanaka.github.io/2026mof/](https://ayumu-tanaka.github.io/2026mof/)
+- GitHub Pages: [https://ayumu-tanaka.github.io/mof2026/](https://ayumu-tanaka.github.io/mof2026/)
   - HTML形式で公開しているページ。資料をダウンロードしやすいようにしています。元ファイルと同じ内容ですが、リポジトリの更新から、数分〜数10分のタイムラグがあります。
 - 試験終了後、リポジトリを閉鎖します。
 
