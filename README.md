@@ -47,13 +47,13 @@
 | 1 | 5月11日（月） | 15:20～16:10 | [序章 グローバル化とは*](slides/00.pptx) | |
 | 2 | 5月11日（月） | 16:20～17:10 | [第2章 グローバル化と保護主義](slides/02.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem02.pdf) | |
 | 3 | 5月12日（火） | 15:20～16:10 | [第3章 企業のグローバル化](slides/03.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem03.pdf) | |
-| 4 | 5月12日（火） | 16:20～17:10 | [第4章 技術が貿易を決める：リカード・モデル](slides/04.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem04.pdf) | |
-| 5 | 5月18日（月） | 15:20～16:10 | [第5章 生産要素が貿易を決める：要素比率理論](slides/05.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem05.pdf) | |
+| 4 | 5月12日（火） | 16:20～17:10 | [第4章 リカード・モデル](slides/04.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem04.pdf) | |
+| 5 | 5月18日（月） | 15:20～16:10 | [第5章 要素比率理論](slides/05.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem05.pdf) | |
 | 6 | 5月18日（月） | 16:20～17:10 | [第6章 新貿易理論](slides/06-new-trade-theory.pdf) | [CES型選好](slides/CES2025.pdf) |
 | 7 | 5月19日（火） | 15:20～16:10 | [第7章 新・新貿易理論](slides/07.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem07.pdf) | |
 | 8 | 5月19日（火） | 16:20～17:10 | [第8章 貿易政策（基礎編）](slides/08.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem08.pdf) | |
 | 9 | 5月25日（月） | 15:20～16:10 | [第9章 貿易政策（応用編）](slides/09.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem09.pdf) | |
-| 10 | 5月25日（月） | 16:20～17:10 | [第10章 多国間の枠組み──地域統合・WTO・FTA](slides/10.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem10.pdf) | |
+| 10 | 5月25日（月） | 16:20～17:10 | [第10章 多国間の枠組み](slides/10.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem10.pdf) | |
 | 11 | 5月26日（火） | 15:20～16:10 | [第11章 グローバル化と格差](slides/11.pptx) [[問題と解答]](answers/Ito-Tanaka-2023-Problem11.pdf) | |
 | 12 | 5月26日（火） | 16:20～17:10 | [重力方程式](slides/12-gravity.pdf) / [Yotov (2025)](slides/Yotov2025.pdf) | [Rでの推定方法*](slides/Yotov2025Codes.pdf) |
 
