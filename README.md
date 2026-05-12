@@ -58,6 +58,8 @@
 | 12 | 5月26日（火） | 16:20～17:10 | [重力方程式](slides/12-gravity.pdf) / [Yotov (2025)](slides/Yotov2025.pdf) | [Rでの推定方法*](slides/Yotov2025Codes.pdf) |
 
 
+
+
 **メモ**
 
 * 試験実施形式（持ち込み可否等）の決定　⇒　5/22（金）まで。
@@ -74,6 +76,8 @@
 - 正誤表が出版社のHPにあります。
 
 ## 参考資料
+
+* [Goldberg and Maggi (1999): 保護売り出しモデルの代表的実証研究](slides/Goldberg-Maggi1999short.pdf)
 
 - 田中鮎夢（2015）『新々貿易理論とは何か: 企業の異質性と21世紀の国際経済』ミネルヴァ書房。
   - 元原稿：RIETI、[国際貿易と貿易政策研究メモ](https://www.rieti.go.jp/users/tanaka-ayumu/serial/index.html)
